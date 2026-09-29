@@ -41,7 +41,7 @@
 - Identified churn patterns using tenure & contract types
 - Delivered actionable retention insights
 
-🔹 SBA Loan Portfolio Risk & Lending Analytics
+🔹 **SBA Loan Portfolio Risk & Lending Analytics**
 - Analyzed 899K+ SBA loan records using Excel, MySQL, and Power BI
 - Identified default, loss, sector, borrower, geographic, and loan-level risk patterns
 - Built a 4-page interactive Power BI dashboard with historical risk-screening insights and lending recommendations
