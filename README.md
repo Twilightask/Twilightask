@@ -26,7 +26,7 @@
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, EDA  
 - **Visualization:** Power BI, Tableau, Zoho Analytics  
 - **Query Languages:** MySQL, SOQL
-- **Tools:** Excel, GitHub, VS Code  
+- **Tools:** Advanced Excel, GitHub, VS Code, Jupyter Notebook
 
 ---
 
