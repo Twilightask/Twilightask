@@ -46,12 +46,5 @@
 - Identified default, loss, sector, borrower, geographic, and loan-level risk patterns
 - Built a 4-page interactive Power BI dashboard with historical risk-screening insights and lending recommendations
 
----
-
-## 🌱 Currently Learning
-- Advanced SQL for analytics
-- Statistics for Data Analysis
-- Python for automation & data cleaning
-- Interview-focused case studies
 
 
