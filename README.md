@@ -9,7 +9,7 @@
 ## 📫 Connect With Me
 - **LinkedIn:** (https://www.linkedin.com/in/aayush-kumbhar-5a3a38259/)
 - **Email:** aayushkumbhar88@gmail.com
-- **Know About my Experiences:** [https://drive.google.com/file/d/1ur-oIRo8VQBA2wDhnA7JbXDOvIY-mSuO/view?usp=drive_link](https://drive.google.com/file/d/1U9iHrXFwFtrXE98p37N_WNollMACJHcH/view?usp=sharing)
+- **Know About my Experiences:** [https://drive.google.com/file/d/13ge3P34vmtBkdMH68wJ5SrwVvX1GqWF7/view?usp=sharing](https://drive.google.com/file/d/13ge3P34vmtBkdMH68wJ5SrwVvX1GqWF7/view?usp=sharing)
 
 ---
 
