@@ -23,9 +23,9 @@
 
 ## 🛠 Skills & Tools
 - **Languages:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy, EDA  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, EDA  
 - **Visualization:** Power BI, Tableau, Zoho Analytics  
-- **Databases:** MySQL  
+- **Query Languages:** MySQL, SOQL
 - **Tools:** Excel, GitHub, VS Code  
 
 ---
